@@ -14,3 +14,5 @@ Used DataBinding wherever necessary.
 Handled button clicks using Databinding.
 
 Note: Livecycle awareness is not utilized and also liveData, I will use them in next app to their full potentianl.
+
+-------> TO USE THE PROJECT, DOWNLOAD ALL THE FILES IN A FOLDER AND OPEN FOLDER IN ANDROID STUDIO USING IMPORT PROJECT OPTION. RUN ON ANY EMULATOR OR YOUR PERSONAL ANDROID DEVICE.
